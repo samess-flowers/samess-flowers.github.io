@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What's in a name?"
-date:   2021-01-20 5:55:55 -0500
+date:   2021-01-21 5:55:55 -0500
 categories: tech janitoria
 tags: janitoria naming
 ---
