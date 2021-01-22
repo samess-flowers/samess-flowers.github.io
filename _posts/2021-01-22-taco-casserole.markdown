@@ -28,12 +28,12 @@ I can cook just about one thing, and it's this.  It's based on a recipe I grabbe
 1. Crumble beef into chunks and cook over medium heat in a large pan
 2. Just go apeshit with the spices on the beef, you can't have too much
 3. De-can beans and corn, drain in colander
-4. Mix salsa, beans, corn, and 150 g of cheese together.  You want a pretty thick consistency so go easy on the salsa
+4. Mix salsa, beans, corn, and 150 g of cheese together (not in the colander, in a bowl).  You want a pretty thick consistency so go easy on the salsa
 5. The beef should be cooked by now, if not, wait until it's done
 6. Mix everything together in that pan and let it get warm.  Lower heat
-7. Once the oven's done preheating, throw all that shit in a big casserole dish and cover with the remaining cheese
+7. Once the oven's done preheating, throw the mix in a big casserole dish and cover with the remaining cheese
 8. Bake for 25 minutes
 9. Done!  You can throw it in the fridge and it'll keep for a week.
 
 ### Nutritional information
-MyFitnessPal added everything together and says it's 3500 calories, divide it into 8 squares and it's about 450 calories per.  27% carbs, 29% protein, 44% fat.  If you eat more than two squares, it gets mad at you for being a fat-ass.
+MyFitnessPal added everything together and says it's 3500 calories, divide it into 8 squares and it's about 450 calories per.  27% carbs, 29% protein, 44% fat.  If you eat more than two squares, it gets mad at you for being fat.
