@@ -22,7 +22,7 @@ The largest scheme I attempted was using Fire Emblem character names, of which t
 
 The two that spring to mind most readily are Dorcas and Serra.  Dorcus (pronounced dork-uhs), is an obviously bas name.  It not only has the work "dork" in it, but it also rolls off the tongue like congealed grease.  Serra (pronounced sehr-ah) was less outright awful, but I was the only person who could find it.  Everyone else was looking for either a computer or a person named Sarah.
 
-### Dispondency
+### Despondency
 After the ignominious failure of my Fire Emblem scheme, I gave up.  I asked users if they wanted a specific name, and if they said they didn't care, I named it with the pattern of "FirstnameL" (e.g. SamE).  This is the worst naming scheme I've heard of.  It doesn't uniquely identify the host: there is a built in collision with that person's name.  It doesn't boost morale or empower the user: it's impersonal and it's lazy.  Every time I see one of those hosts on the network, I feel bad.
 
 ### Lineage
