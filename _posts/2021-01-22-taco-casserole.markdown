@@ -26,7 +26,7 @@ I can cook just about one thing, and it's this.  It's based on a recipe I grabbe
 ### Recipe
 0. Set oven to 350 and do the rest while it pre-heats
 1. Crumble beef into chunks and cook over medium heat in a large pan
-2. Just go apeshit with the spices on the beef, you can't have too much
+2. Just go nuts with the spices on the beef, you can't have too much
 3. De-can beans and corn, drain in colander
 4. Mix salsa, beans, corn, and 150 g of cheese together (not in the colander, in a bowl).  You want a pretty thick consistency so go easy on the salsa
 5. The beef should be cooked by now, if not, wait until it's done
