@@ -2,7 +2,7 @@
 layout: post
 title:  "Turn off your computer"
 date:   2021-01-23 5:55:55 -0500
-categories: tech opinion
+categories: tech security
 tags: security opsec
 ---
 I have one request to make of the world: turn off your computer!  It's bad for the computer, it's bad for security, and it's just common sense.
