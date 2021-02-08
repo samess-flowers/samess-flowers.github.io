@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "C3UPs"
+date:   2021- 5:55:55 -0500
+categories: tech janitoria
+tags: users words
+---
+I started using a term on this blog a while back, C3UPs.  While I defined it in a parenthetical when it first appeared, I like the term so I'll talk about it here.  The term stands for "Customer/Client/Coworker/User/Person".  I came up with it because I wanted a consistent term for what I'd usually describe as a "user".  They're the people who use the systems you administrate.  Let's go through each term and why it's in the list:
+* Customer: this is one of that might sit wrong with a lot of people.  Calling someone a customer can feel a little greasy, which I understand, but it's important to remember that they are customers in a very real way.  You *might* have a complete monopoly in the field (you don't), but utilities have customers too.  You need to remember that **customer service** is an important aspect of IT, even if they're internal customers.
+* Client: again, this might feel a little greasy.  Clients are people who pay you for a service.  You perform a service for the people who pay you.  This also ties into the Sam Ess Hierarchy of Bosses, but that's a topic for another day.
+* Coworker: this one might throw all the people who didn't have problems with customer or client because they're an MSP or otherwise external to the group they help.  The people you help are generally working with you, at least a bit.  Your goals are parallel, not perpendicular or opposed (usually, sometimes life sucks).  For all the internal IT people, you probably don't have an issue with this one.
+* User: these are people who use your systems.  The term is pretty standard across the industry, but I find it too clinical and distant.  A user is an object in Active Directory, not what that object represents.  Frequently, there's also a negative connotation with the term user, "you'll never guess what this user did," or "my users are the worst".  By distancing them to an AD object, you can safely belittle them.  It's like when someone calls you "IT" instead of your name.
+* Person: this one is hokey, I admit.  At the end of the day, you're dealing with a person (until we meet aliens or AI (which would be rad)).  Remembering this fact can keep you centered and it can help with troubleshooting.  There is never a bad time to be reminded that if you die on the internet you die in real life.  People deserve respect, no matter how many help desk tickets they create (or don't create).  It can help in troubleshooting if you consider motivations beyond the simple "the user needs to open Excel to perform job function" thinking.
+
+Anyway, that's what C3UP means.  And it's pronounced "cup" or "cups", because that's not an acronym already in [common use](https://en.wikipedia.org/wiki/CUPS)!
