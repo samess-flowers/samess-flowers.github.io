@@ -2,8 +2,8 @@
 layout: post
 title:  "A weapon to surpass Metal Gear"
 date:   2021-02-06 5:55:55 -0500
-categories: tech macos
-tags: applescript ui dialumberjack
+categories: janitoria macos
+tags: applescript projects dialumberjack
 ---
 I've been pondering the issue I [wrote about](https://samess-flowers.github.io/tech/macos/2021/02/03/assembling-and-building.html) the other day, and I think I've settled on a solution.  I'm going to build a program to tie together all of the disparate scripts and subsystems currently in my Jamf environment.  A common UI to tie everything together and present the same face to the user.  Because it handles dialogs and I am physical incapable of restraint, I have named it [DiaLumberjack](https://github.com/saess-sep/dialumberjack)!
 

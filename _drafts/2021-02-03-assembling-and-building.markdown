@@ -2,7 +2,7 @@
 layout: post
 title:  "Assembling and building"
 date:   2021-02-03 5:55:55 -0500
-categories: tech macos
+categories: janitoria macos
 tags: macos jamf strategy
 ---
 I had a great conversation earlier today.  I had a (client/customer/coworker/user/person) ask why they were being prompted repeatedly to update Chrome on their Mac.  The literal answer is that I've got [Installomator](https://github.com/scriptingosx/Installomator) set up via Jamf Pro to run at every check-in (approximately 20 minutes) for any computer with a non-current version of Chrome.  Installomator has a helpful little AppleScript dialog that pops up if the program being installed is currently open that asks the user if they want to close it and install or to leave it open and abort the install.

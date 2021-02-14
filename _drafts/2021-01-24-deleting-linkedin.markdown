@@ -2,7 +2,7 @@
 layout: post
 title:  "Deleting LinkedIn"
 date:   2021-01-24 5:55:55 -0500
-categories: tech security
+categories: janitoria security
 tags: security opsec "social media"
 ---
 I deleted my LinkedIn account the other day.  It was my last remaining social media account.  I deleted the others a while back, because I felt they added nothing to my life and leaked personal data to people who didn't deserve to have it.  LinkedIn, I viewed as a necessary evil.  "You need a LinkedIn account," people told me, "you won't get a job without one."  

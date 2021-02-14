@@ -2,7 +2,7 @@
 layout: post
 title:  "Standup cards"
 date:   2021-02-01 5:55:55 -0500
-categories: tech janitoria
+categories: janitoria organization
 tags: work standup meetings
 ---
 Today, I'd like to share a quick tip to help with the incessant meetings that now haunt your every waking moment: the standup card!  They're a simple little trick that helps keep your standup short.

@@ -2,7 +2,7 @@
 layout: post
 title:  "PII of your very own"
 date:   2021- 5:55:55 -0500
-categories: tech security
+categories: janitoria security
 tags: security pii wiping
 ---
 As I write this, I'm waiting on a thumb drive to finish its seventh pass of the DOD wipe, so I can smash it open with a mallet and then physically destroy every flash chip individually.  The reason for my thoroughness is that this thumb drive has a picture of my Social Security card on it, along with a picture of my driver's license.  It's the dictionary definition of PII, and it's also **my** PII.  I really would prefer not to have my identity stolen, so I'm taking extraordinary measures to protect this information.  My question, to myself and to other janitors, is "why is it extraordinary?  Why don't we do this for everything?"  Unless you verify every device individually, there's no way to be certain they don't contain someone elses, or even your, PII.  I don't check every thumb drive, SD card, or hard drive that passes through my closet, and I certainly don't personally destroy them on a component level, unless I need fridge magnets, and even then the destruction of the hard drive is incidental.

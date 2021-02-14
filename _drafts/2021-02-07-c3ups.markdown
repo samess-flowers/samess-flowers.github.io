@@ -2,7 +2,7 @@
 layout: post
 title:  "C3UPs"
 date:   2021- 5:55:55 -0500
-categories: tech janitoria
+categories: janitoria users
 tags: users words
 ---
 I started using a term on this blog a while back, C3UPs.  While I defined it in a parenthetical when it first appeared, I like the term so I'll talk about it here.  The term stands for "Customer/Client/Coworker/User/Person".  I came up with it because I wanted a consistent term for what I'd usually describe as a "user".  They're the people who use the systems you administrate.  Let's go through each term and why it's in the list:
