@@ -2,7 +2,7 @@
 layout: post
 title:  "What's in a name?"
 date:   2021-01-21 5:55:55 -0500
-categories: janitoria
+categories: janitoria organization
 tags: janitoria naming
 ---
 I love naming computers, it's one of my favorite parts about my job.  I can't stand a computer with a default name, especially on Windows which has a terrible default "DESKTOP-#####" scheme.  A good hostname boosts morale, empowers users, and makes machines easy to track across the network.
