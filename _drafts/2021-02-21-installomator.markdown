@@ -79,9 +79,11 @@ After uploading your script and creating your smart group, you can make your pol
 ### Payloads
 Next, select **Scripts** from the sidebar and add a script payload using the script you added earlier.  Fill in the parameters as needed, making sure to add in the `visualstudiocode` label.  Also make sure that **Priority** is set to *Before*, to allow recon to properly run after installation.
 
-![Scripts section for Automatic Policy](/assets/installomator/automatic-script.png)
+![Scripts section for Automatic Policy](/assets/installomator/automatic-scripts.png)
 
 Next, select **Maintenance** from the sidebar.  The **Update Inventory** box should already be checked.  This will ensure that Jamf runs recon and updates the smart group to remove the computer that now has VS Code installed.  Otherwise, the policy will run continuously until the next time recon runs and updates the installed applications for that computer.
+
+![Maintenance section for Automatic Policy](/assets/installomator/automatic-maintenance.png)
 
 ### Scoping your policy
 Finally, scope your policy to the smart group you created earlier.  In real life, I would normally scope this to a test computer group first, to make sure everything works well before scoping it to my coworkers.  In this case we can just go ahead and scope immediately.
@@ -132,7 +134,7 @@ and then when we click the **Install** button we get a spinning wheel on the but
 
 we get a pop-up if VS Code is installed and running,
 
-![Installomator Self Service pop-up](/assets/installomator/self-service-pop-up.png)
+![Installomator Self Service pop-up](/assets/installomator/prompt.png)
 
 and then a notification once installation finishes!
 
