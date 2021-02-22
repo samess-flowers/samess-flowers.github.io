@@ -21,7 +21,7 @@ I would avoid using your name and especially avoid using other people's names fo
 If you're naming or re-naming a computer at work, it's a good idea to try to do an `nslookup` on your chosen name to see if anything else on the network is currently using it.  You might also try looking up names *similar* to your chosen name, such as "Phyrigia" and "Phyrigian".
 
 ### Short
-This one is less of a recommendation and more of a requirement: Windows will only let you have a 15 letter hostname.  Other operating systems might allow longer names, but in general it's best to keep your names short.
+In the olden days, host names were strictly limited to only a few characters.  Today, you can have an arbitrarily large host name, but it's a good idea to keep them short.  15 characters allows compatibility with most of the legacy protocols still in use, without being too short.  A short host name is also easier to work with.
 
 ### Easy to spell and say
 A good host name is easy for *someone else* to spell and say.  It's great if you can spell it, but if someone else needs to connect to your computer or find it from a list, then you're probably going to end up spelling it out loud for them.  As fun as it is to have your computer be named "Vercingetorix" (Vehr-kin-get-or-icks), it's not the most helpful choice.
