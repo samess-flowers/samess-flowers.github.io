@@ -1,8 +1,0 @@
----
-layout: post
-title:  "New blog!"
-date:   2021-01-20 15:55:55 -0500
-categories: administrivia
-tags: administrivia
----
-Hey look, a new blog!  I'll be talking about stuff on it.  Stay tuned
