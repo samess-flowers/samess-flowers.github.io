@@ -2,8 +2,8 @@
 layout: post
 title:  "Slackbots"
 date:   2021-07-01 5:55:55 -0500
-categories: "Tutorial"
-tags: "API","Slack","Python"
+categories:
+tags:
 ---
 ## To Slackbot or not to Slackbot
 As far as I can tell, I probably don't need to be writing my own Slackbots very frequently.  Slack Workflows are a code-free option that automates Slack without having to worry about secrets management or write error handling code or anything of the sort.  Workflows should cover 80% of what we need with 20% of the effort of making a Slackbot.
