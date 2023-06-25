@@ -12,7 +12,7 @@ The host name is the human-readable name that your computer identifies itself in
 
 ## Picking a name
 ### Unique
-A hostname needs to be unique to whatever network it will be on.  For an example, if I have a computer named "Kodiak" on my work network and one on my home network, that's perfectly fine, since the networks are on different domains and the full names would be "Kodiak.work.com" and "Kodiak.samess.local", but the best practice is to have any names you're using be unique to you and any networks you use, so my home computer could be named Kodiak and work computer could be named Panda.  This avoids confusion if you have to take your computer home or your personal computer into work.
+A hostname needs to be unique to whatever network it will be on.  For an example, if I have a computer named "Kodiak" on my work network and one on my home network, that's perfectly fine, since the networks are on different domains and the full names would be "Kodiak.work.com" and "Kodiak.samess.local", but the best practice is to have any names you're using be unique to you and any networks you use, so my home computer could be named "Kodiak" and work computer could be named "Panda".  This avoids confusion if you have to take your computer home or your personal computer into work.
 
 ## Avoid names
 I would avoid using your name and especially avoid using other people's names for your host name.  It's awkward enough to get a message saying "Sam fell off of a counter and shattered", but it's even worse when you aren't Sam.
