@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Slackbots"
-date:   2021-07-01 5:55:55 -0500
+date:   2022-07-01 5:55:55 -0500
 categories: technology
 tags:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spicy Shakshuka"
-date:   2021-06-26 5:55:55 -0500
+date:   2023-06-26 5:55:55 -0500
 categories: recipes
 tags:
 ---
