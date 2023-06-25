@@ -5,9 +5,9 @@ date:   2021-01-22 5:55:55 -0500
 categories: recipes
 tags: 
 ---
-I can cook just about one thing, and it's this.  It's based on a recipe I grabbed from online, which for some reason had Doritos (tm) as a kind of crust, which was disgusting.  It's quick, filling, resembles healthy if you squint, and is cheap, I love it.
+I can cook just about one thing, and it's this.  It's based on a recipe I grabbed from online, which for some reason had Doritos (tm) as a kind of crust, which was disgusting.  It's quick, filling, resembles healthy if you squint, and is super cheap. I love it.
 
-### Ingredients
+## Ingredients
 * 1 pound 93/7 ground beef
 * 1 15 oz can black beans
 * 1 15 oz can pinto beans
@@ -15,7 +15,7 @@ I can cook just about one thing, and it's this.  It's based on a recipe I grabbe
 * 400 g shredded cheese
 * 2 cups salsa (approximate)
 
-### Spices
+## Spices
 * Salt
 * Garlic powder
 * Onion powder
@@ -23,8 +23,8 @@ I can cook just about one thing, and it's this.  It's based on a recipe I grabbe
 * Chili powder
 * Cayenne pepper
 
-### Recipe
-0. Set oven to 350 degrees (Fahrenheit you communist) and do the rest while it pre-heats
+## Recipe
+0. Set oven to 350 degrees and do the rest while it pre-heats
 1. Crumble beef into chunks and cook over medium heat in a large pan
 2. Just go nuts with the spices on the beef, you can't have too much
 3. De-can beans and corn, drain in colander
@@ -34,6 +34,3 @@ I can cook just about one thing, and it's this.  It's based on a recipe I grabbe
 7. Once the oven's done preheating, throw the mix in a big casserole dish and cover with the remaining cheese
 8. Bake for 25 minutes
 9. Done!  You can throw it in the fridge and it'll keep for a week.
-
-### Nutritional information
-MyFitnessPal added everything together and says it's 3500 calories, divide it into 8 squares and it's about 450 calories per.  27% carbs, 29% protein, 44% fat.  If you eat more than two squares, it gets mad at you for being fat.

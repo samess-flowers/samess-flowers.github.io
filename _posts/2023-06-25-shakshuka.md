@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Spicy Shakshuka"
-date:   2023-06-26 5:55:55 -0500
+title:  "Shakshuka"
+date:   2023-06-25 5:55:55 -0500
 categories: recipes
 tags:
 ---
+This recipe is adapted from the book _Half Baked Harvest: Super Simple_ by Tieghan Gerard.  That version had potatoes in it, which completely throws off all the cooking times (and isn't as good).  The choice of peppers will determine how the spice level.
 
 ## Ingredients
-1. 1 Medium yellow onion, chopped
+1. 1 medium yellow onion, chopped
 1. 1 28 oz. can crushed tomoatoes
 1. EITHER:
     1. Regular spicy: 16 oz jar of fire roasted red peppers, drained and chopped (pasta aisle)
@@ -19,8 +20,8 @@ tags:
 ## Spices
 1. Chipotle chile powder
 1. Regular chile powder
-1. Smoked Paprika
-1. Seasoned Salt
+1. Smoked paprika
+1. Seasoned salt
 1. Cilantro
 
 ## Recipe
