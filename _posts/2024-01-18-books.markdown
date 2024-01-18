@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Books I finished in 2024"
-date:   2024- 5:55:55 -0500
+date:   2024-01-18 5:55:55 -0500
 categories: 
 tags: 
 ---
